@@ -403,7 +403,7 @@ $_SESSION['login_use'] = 'ecell';
                 <div class="flag-wrapper">
                   <span class="flag" style="background-color:#f18d11"><b>Round 1</b></span>
                 </div>
-                <div class="desc" style="background:none;">Shortlisting on the basis of Form responses. Submission before <span style="color:orange">5th oct 2022</span></div>
+                <div class="desc" style="background:none;">Shortlisting on the basis of Form responses. Submission before <span style="color:orange">12th oct 2022</span></div>
               </div>
             </li>
             
@@ -483,7 +483,7 @@ $_SESSION['login_use'] = 'ecell';
               <div class="col-sm-4 contact_block">
                   <div class="g-text-center--xs">
                       <h4 class="manager-name g-font-size-18--xs g-color--white g-margin-b-5--xs">Ishan Pandey</h4>
-                       <p class="g-color--white">+91 63763 17859<br>ishanpandey786786@gmail.com</p>
+                       <p class="g-color--white">+91 63763 17859<br>ishanpaandey@gmail.com</p>
                   </div>
               </div>
               <div class="col-sm-4 contact_block">
